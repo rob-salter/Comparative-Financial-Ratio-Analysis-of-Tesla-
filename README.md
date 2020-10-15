@@ -3,7 +3,7 @@ The aim of this project is to answer the question as to whether Tesla's share pr
 
 Techniques
 - API
-- Webscraping
+- Web scraping
 - Data cleaning 
 - Data visualisation with Plotly interactive charts
 - Python/Pandas
