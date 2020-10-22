@@ -7,3 +7,5 @@ Techniques
 - Data visualisation with Plotly interactive charts
 - Python/Pandas
 - Web Scraping - Beautiful Soup
+
+Projects can be viewed using nbviewer (https://nbviewer.jupyter.org/) if Github's ipynb glitch continues.
